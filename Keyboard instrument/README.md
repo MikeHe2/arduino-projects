@@ -10,7 +10,7 @@ Arduino project that turns a resistor-ladder button circuit into a simple musica
 | Passive buzzer | D8 |
 
 ## Schematic
-![Project Diagram](/media/diagram.png)
+![Project Diagram](media/diagram.png)
 
 ## Notes
 
